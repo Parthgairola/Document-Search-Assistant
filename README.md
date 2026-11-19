@@ -3,6 +3,7 @@
 A RAG-based AI Document Search Assistant that allows users to upload a PDF document and ask questions about its content.
 
 [Live Demo](https://document-search-assistant.streamlit.app/)
+⚠️ **Note:** Hosted on Streamlit Community Cloud. Initial loading may take 30–60 seconds after a period of inactivity.
 
 ## Tech Stack
 
